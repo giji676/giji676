@@ -1,11 +1,33 @@
-## Hi there 👋
+## Hello there
 
-# 💫 About Me:
-- 🔭 I’m currently working on V-Plot, my software for processing and generating images for a pen plotting machine that i built.<br>
-     And on a movie streaming platform.<br>
-- 🔭 I'm also working on starting up a small company, making ergonomic keyboards.<br>
-- 🌱 I’m currently learning C/C++ to learn more about memory management, and more low level programming.<br>
+# About Me
 
+I am a Computer Science student at Royal Holloway University of London and a passionate fullstack developer with experience across a variety of technologies:
+
+- **Backend:** Django, Django REST Framework (DRF), PostgreSQL
+- **Frontend:** React, PyQt
+- **Networking & APIs:** REST APIs, WebSockets
+- **DevOps & Deployment:** Nginx, Docker
+
+## Projects
+
+I am currently developing a **movie streaming service**, which is the largest and most ambitious project I've undertaken so far. The platform allows users to:
+
+- Stream movies directly from a custom server
+- Create accounts to track watch progress
+- Save movies to watch later
+- Join **watch parties** to stream movies in sync with other users
+- Lots more features to come
+
+The system features **automated movie sourcing**, using the TMDb API and torrent downloads, and converts downloaded files into **HLS format** with FFmpeg for smooth streaming. This project has given me hands-on experience with real-world challenges in backend development, media streaming, and real-time synchronization.
+
+## Skills & Interests
+
+I enjoy working primarily in **Python**, with a focus on backend and fullstack development. I'm familiar with building desktop applications with PyQt, and I have experience deploying applications using Docker and Nginx. While I am still exploring CI/CD and testing, I am eager to deepen my knowledge and implement best practices in future projects.
+
+## Career Goals
+
+I am aiming to build a career as a **backend or fullstack developer**, preferably working with Python. I am particularly interested in challenging projects that combine scalable backend systems with real-time features and robust user experiences. I am looking for opportunities where I can contribute to innovative applications while growing as a developer.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giji676) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tengiz-khachidze-168358369/) 
